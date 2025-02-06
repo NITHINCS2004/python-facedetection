@@ -10,20 +10,20 @@ A real-time **Face Detection** system developed using **Python**, **OpenCV**, an
 ![Screenshot (215)](https://github.com/user-attachments/assets/d017f4bb-b60c-49b9-bfcb-4730d5825790)
 
 - **Real-Time Face Detection**: Detects faces from webcam feed instantly.
-- 
+  
 - **Multiple Faces Detection**: Detects and highlights multiple faces in a single frame.
-- 
+  
 - **Bounding Box**: Faces are highlighted with bounding boxes for clarity.
-- 
+  
 - **Optimized for Performance**: The system is optimized to run smoothly even with real-time processing.
-- 
+  
 - **Easy Integration**: Can be easily extended for face recognition systems.
 
 ## 🛠️ Technologies Used
 
 - **Python**: Programming language
-- 
+  
 - **OpenCV**: For real-time image processing and video capture
-- 
+  
 - **Dlib**: For face detection
-- 
+  
